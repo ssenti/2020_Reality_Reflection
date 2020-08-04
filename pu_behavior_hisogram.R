@@ -1,3 +1,5 @@
+#analzing paying user's behaviors through histograms
+
 
 df <- data.frame(read.csv("liga_da_4.csv", header = TRUE))
 summary(df)
