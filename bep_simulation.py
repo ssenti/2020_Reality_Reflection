@@ -1,5 +1,5 @@
 
-# simulating company BEP through interactive cost/revenue plot (spent 2-3 hours making it with limited matplotlib knowledge)
+# simulating company BEP through interactive cost/revenue plot (spent 2-3 hours making it with limited matplotlib knowledge at the time (Summer 2019))
 
 import numpy as np
 import matplotlib.pyplot as plt
